@@ -23,7 +23,7 @@ Caso de Teste 03: Listar Produtos
     Acessar a página home do site Automation Practice
     Passar o mouse por cima da categoria "Women" no menu principal superior de categorias
     Clicar na sub categoria "Summer Dresses"
-    Conferir se os produtos da sub-categoria "Summer Dresses" foram mostrados na página
+    Conferir se os produtos da sub-categoria "SUMMER DRESSES " foram mostrados na página
 
 Caso de Teste 04: Adicionar Cliente
     Acessar a página home do site Automation Practice
